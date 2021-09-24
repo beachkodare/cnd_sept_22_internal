@@ -1,4 +1,6 @@
 'use strict';
+
+// automate the building of docker image
 // bring in firestore
 const Firestore = require("@google-cloud/firestore");
 
